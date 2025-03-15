@@ -1,4 +1,4 @@
-const string = "ayam"
+const string = "oke"
 let reversed = string.split('').reverse().join('');
 
 if(string === reversed) {
