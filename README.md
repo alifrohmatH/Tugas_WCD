@@ -1,6 +1,6 @@
 # Task Web Client Dvelopment
 
-## Task 1
+## Tugas 1
 
 Tugas pertama untuk pelajaran "Web Client Development"
 
@@ -15,7 +15,7 @@ Tugas pertama untuk pelajaran "Web Client Development"
 5. kode untuk mencetak inisial nama Anda dalam huruf kapital ->
    Dibuat dengan memasukkan nama kemudian di dipisahkan menjadi sebuah array, kemudian di looping. dalam looping itu dipisahkan menjadi per-character kemudian diambil urutan ke-0nya terakhir urutan terkahir di masukan ke sebuah array. Untuk menampilkannya array tersebut dijalankan fungsi join.
 
-## Task 2
+## Tugas 2
 
 1. Konversi ke Celcius
 2. Konversi ke Kilometer
@@ -23,14 +23,14 @@ Tugas pertama untuk pelajaran "Web Client Development"
 4. Mengganti String
 5. String Palindrom
 
-## Task 3
+## Tugas 3 web-client-development
 
 Menyempurnakan tampilan HTML dengan CSS yang sudah diberikan
 
-## Task 4
+## Tugas 4 - Landing Page
 
 Membuat code dengan ReactJS dan CSS framework dengan menyesuakan tampilan dengan file figma yang diberikan oleh dosen
 
-## Task 5
+## tugas 5 - react hooks
 
-## Task 6
+## Tugas6 - react state
